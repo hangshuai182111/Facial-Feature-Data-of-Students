@@ -1,5 +1,7 @@
 # Facial-Feature-Data-of-Students
-Containing the facial feature points and expression values of students
+
+Including facial feature points and expression values of students (part)，
+The remaining data will be uploaded after the follow-up related research.
 
 __1.Data acquisition link：__
 
