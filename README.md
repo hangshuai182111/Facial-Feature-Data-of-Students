@@ -3,9 +3,9 @@ Containing the facial feature points and expression values of students
 
 __1.Data acquisition link：__
 
-通过网盘分享的文件：以每个学生为单位的表情值和特征点.zip
-链接: https://pan.baidu.com/s/1n-7rz8nk01BjipJoTLMENg 提取码: 2zcn 
---来自百度网盘超级会员v7的分享
+Files shared through the network disk:
+Link: https://pan.baidu.com/s/1n-7rz8nk01BjipJoTLMENg extraction code: 2zcn
+
 
 __2.Data schematic diagram：__
 
